@@ -19,7 +19,7 @@ export default [
   'sr-Latn-ME', [['a', 'p'], ['prije podne', 'po podne'], u], u,
   [
     ['n', 'p', 'u', 's', 'č', 'p', 's'], ['ned.', 'pon.', 'ut.', 'sr.', 'čet.', 'pet.', 'sub.'],
-    ['nedjelja', 'ponedeljak', 'utorak', 'srijeda', 'četvrtak', 'petak', 'subota'],
+    ['neđelja', 'poneđeljak', 'utorak', 'srijeda', 'četvrtak', 'petak', 'subota'],
     ['ne', 'po', 'ut', 'sr', 'če', 'pe', 'su']
   ],
   u,
@@ -35,7 +35,7 @@ export default [
   ['d.M.yy.', 'dd.MM.y.', 'dd. MMMM y.', 'EEEE, dd. MMMM y.'],
   ['HH:mm', 'HH:mm:ss', 'HH:mm:ss z', 'HH:mm:ss zzzz'], ['{1} {0}', u, u, u],
   [',', '.', ';', '%', '+', '-', 'E', '×', '‰', '∞', 'NaN', ':'],
-  ['#,##0.###', '#,##0%', '#,##0.00 ¤', '#E0'], '€', 'Evro', {
+  ['#,##0.###', '#,##0%', '#,##0.00 ¤', '#E0'], '€', 'Euro', {
     'AUD': [u, '$'],
     'BAM': ['KM'],
     'BYN': [u, 'r.'],
